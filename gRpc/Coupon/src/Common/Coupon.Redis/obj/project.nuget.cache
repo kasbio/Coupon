@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "INZwxJ37z+GPcpH5YpFMsRGuImh3GwMauEAoff2i9GMJ87Mval+neaHMB4Y9gVosQCj+d6yWPbegvxr/4P/OXA==",
+  "success": true,
+  "projectFilePath": "J:\\code\\gRpc\\Coupon\\src\\Common\\Coupon.Redis\\Coupon.Redis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kasbi\\.nuget\\packages\\csrediscore\\3.6.8\\csrediscore.3.6.8.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

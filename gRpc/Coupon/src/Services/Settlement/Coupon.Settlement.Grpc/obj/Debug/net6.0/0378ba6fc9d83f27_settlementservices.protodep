@@ -1,0 +1,5 @@
+obj\Debug\net6.0/Settlementservices.cs \
+obj\Debug\net6.0/SettlementservicesGrpc.cs: C:/Users/kasbi/.nuget/packages/grpc.tools/2.40.0/build/native/include/google/protobuf/timestamp.proto\
+ ../../../Common/Proto/templatemodel.proto\
+ ../../../Common/Proto/settlementmodel.proto\
+ ../../../Common/Proto/settlementservices.proto

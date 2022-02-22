@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.0" />
+    <PackageReference Include="Google.Protobuf" Version="3.13.0" />
+    <PackageReference Include="Grpc.Tools" Version="2.32.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="..\Proto\distributionmodel.proto" GrpcServices="None">
+      <Link>Protos\distributionmodel.proto</Link>
+    </Protobuf>
+    <Protobuf Include="..\Proto\settlementmodel.proto" GrpcServices="None">
+      <Link>Protos\settlementmodel.proto</Link>
+    </Protobuf>
+    <Protobuf Include="..\Proto\templatemodel.proto" GrpcServices="None">
+      <Link>Protos\templatemodel.proto</Link>
+    </Protobuf>
+  </ItemGroup>
+
+</Project>

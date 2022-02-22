@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9nTzZRV9lIEGI18FHTgDc0lDLh6ZgOjiaXhKP3ksCcgdUFiIvRNi7tgs/i8qKvUFr/5MIMyPRy6qzclRZJPsw==",
+  "success": true,
+  "projectFilePath": "J:\\code\\gRpc\\Coupon\\src\\Common\\Coupon.Common\\Coupon.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kasbi\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\google.protobuf\\3.13.0\\google.protobuf.3.13.0.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\grpc.tools\\2.32.0\\grpc.tools.2.32.0.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\kasbi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

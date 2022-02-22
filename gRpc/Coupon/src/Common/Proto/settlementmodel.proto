@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+option csharp_namespace="Coupon.Settlement.Grpc.Model";
+
+
+import "templatemodel.proto";
+package coupon.grpc.settlement.dto;
+
+ 
+//结算信息
+message SettlementInfos {
+    //用户Id
+    int64 userId = 1;
+    repeated CouponWithTemplateDTO CouponInfos = 2;
+    repeated GoodsInfos goodsInfos = 3;
+    double cost = 4;
+    bool employ = 5;
+
+} 
+
+//（附带优惠券模板信息）优惠券
+message CouponWithTemplateDTO {
+    int32 id = 1;
+    coupon.grpc.template.dto.CouponTemplateDTO Template = 2;
+}
+
+// 商品信息
+message GoodsInfos {
+    int32 type = 1;
+    double price = 2;
+    int32 count = 3;
+}

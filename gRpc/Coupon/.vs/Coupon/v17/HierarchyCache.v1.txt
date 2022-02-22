@@ -1,0 +1,297 @@
+﻿++解决方案“Coupon”‎(9 个项目，共 9 个)
+i:{00000000-0000-0000-0000-000000000000}:Coupon.sln
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++Services
+i:{1b7a3241-1088-45a4-8e11-3d4d1b7a2b54}:Services
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\users\kasbi\source\repos\coupon\coupon.template.applicationcore\services\
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\users\kasbi\source\repos\coupon\coupon.template.grpc\services\
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\users\kasbi\source\repos\coupon\coupon.distribution.applicationcore\services\
+++Settlement
+i:{66cb9983-38b7-4449-b175-767ef07e1e61}:Settlement
+++Template
+i:{66cb9983-38b7-4449-b175-767ef07e1e61}:Template
+++Coupon.Template.Model
+i:{4c541a5d-54c0-4c56-8e0d-697b4cd046f4}:Coupon.Template.Model
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\source\repos\coupon\coupon.template.model\bin\debug\net6.0\coupon.template.model.dll
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\users\kasbi\source\repos\coupon\coupon.template.model\bin\debug\net6.0\coupon.template.model.dll
+++依赖项
+i:{1ac2f5ad-ce80-4213-9b85-47e7317632ea}:>273
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:>274
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:>272
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:>392
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:>580
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:>527
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:>472
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:>316
+i:{eb1e635c-37c4-4f21-9222-a70dd86ad4e3}:>275
+++DTO
+i:{1ac2f5ad-ce80-4213-9b85-47e7317632ea}:c:\users\kasbi\source\repos\coupon\coupon.template.model\dto\
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:c:\users\kasbi\source\repos\coupon\coupon.distribution.model\dto\
+++TemplateRequest.cs
+i:{1ac2f5ad-ce80-4213-9b85-47e7317632ea}:c:\users\kasbi\source\repos\coupon\coupon.template.model\dto\templaterequest.cs
+++Model
+i:{1ac2f5ad-ce80-4213-9b85-47e7317632ea}:c:\users\kasbi\source\repos\coupon\coupon.template.model\model\
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\model\
+++CouponTemplate.cs
+i:{1ac2f5ad-ce80-4213-9b85-47e7317632ea}:c:\users\kasbi\source\repos\coupon\coupon.template.model\model\coupontemplate.cs
+++分析器
+i:{1ac2f5ad-ce80-4213-9b85-47e7317632ea}:分析器
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:分析器
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:分析器
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:分析器
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:分析器
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:分析器
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:分析器
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:分析器
+i:{eb1e635c-37c4-4f21-9222-a70dd86ad4e3}:分析器
+++框架
+i:{1ac2f5ad-ce80-4213-9b85-47e7317632ea}:框架
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:框架
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:框架
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:框架
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:框架
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:框架
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:框架
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:框架
+i:{eb1e635c-37c4-4f21-9222-a70dd86ad4e3}:框架
+++项目
+i:{1ac2f5ad-ce80-4213-9b85-47e7317632ea}:项目
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:项目
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:项目
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:项目
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:项目
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:项目
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{1ac2f5ad-ce80-4213-9b85-47e7317632ea}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{eb1e635c-37c4-4f21-9222-a70dd86ad4e3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{1ac2f5ad-ce80-4213-9b85-47e7317632ea}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{eb1e635c-37c4-4f21-9222-a70dd86ad4e3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{1ac2f5ad-ce80-4213-9b85-47e7317632ea}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{eb1e635c-37c4-4f21-9222-a70dd86ad4e3}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{1ac2f5ad-ce80-4213-9b85-47e7317632ea}:c:\users\kasbi\source\repos\coupon\coupon.template.model\microsoft.netcore.app
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\source\repos\coupon\coupon.template.infrastructure\microsoft.netcore.app
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\users\kasbi\source\repos\coupon\coupon.template.applicationcore\microsoft.netcore.app
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\users\kasbi\source\repos\coupon\coupon.template.grpc\microsoft.netcore.app
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\users\kasbi\source\repos\coupon\coupon.distribution.applicationcore\microsoft.netcore.app
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:c:\users\kasbi\source\repos\coupon\coupon.distribution.infrastructure\microsoft.netcore.app
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:c:\users\kasbi\source\repos\coupon\coupon.distribution.model\microsoft.netcore.app
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\microsoft.netcore.app
+i:{eb1e635c-37c4-4f21-9222-a70dd86ad4e3}:c:\users\kasbi\source\repos\coupon\coupon.redis\microsoft.netcore.app
+++Coupon.Common
+i:{1ac2f5ad-ce80-4213-9b85-47e7317632ea}:c:\users\kasbi\source\repos\coupon\coupon.common\bin\debug\net6.0\coupon.common.dll
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\source\repos\coupon\coupon.common\bin\debug\net6.0\coupon.common.dll
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\users\kasbi\source\repos\coupon\coupon.common\bin\debug\net6.0\coupon.common.dll
+i:{0e621dc8-a8a8-4494-8d22-4792fe3f9e90}:Coupon.Common
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:c:\users\kasbi\source\repos\coupon\coupon.common\bin\debug\net6.0\coupon.common.dll
+++Coupon.Template.Infrastructure
+i:{4c541a5d-54c0-4c56-8e0d-697b4cd046f4}:Coupon.Template.Infrastructure
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\users\kasbi\source\repos\coupon\coupon.template.infrastructure\bin\debug\net6.0\coupon.template.infrastructure.dll
+++Config
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\source\repos\coupon\coupon.template.infrastructure\config\
+++CouponTemplateConfiguration.cs
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\source\repos\coupon\coupon.template.infrastructure\config\coupontemplateconfiguration.cs
+++Converter
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\source\repos\coupon\coupon.template.infrastructure\converter\
+++TemplateRuleConverter.cs
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\source\repos\coupon\coupon.template.infrastructure\converter\templateruleconverter.cs
+++Mapper
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\source\repos\coupon\coupon.template.infrastructure\mapper\
+++TemplateMapper.cs
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\source\repos\coupon\coupon.template.infrastructure\mapper\templatemapper.cs
+++Repository
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\source\repos\coupon\coupon.template.infrastructure\repository\
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:c:\users\kasbi\source\repos\coupon\coupon.distribution.infrastructure\repository\
+++TemplateDbContext.cs
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\source\repos\coupon\coupon.template.infrastructure\templatedbcontext.cs
+++包
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:包
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:包
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:包
+i:{eb1e635c-37c4-4f21-9222-a70dd86ad4e3}:包
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:包
+++TemplateRepository.cs
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\source\repos\coupon\coupon.template.infrastructure\repository\templaterepository.cs
+++AutoMapper (10.1.1)
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:>420
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:>418
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:>646
+++Microsoft.EntityFrameworkCore.Relational (6.0.1)
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:>419
+++Microsoft.Extensions.Hosting.Abstractions (6.0.0)
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:>422
+++Pomelo.EntityFrameworkCore.MySql (6.0.0)
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:>421
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\users\kasbi\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:c:\users\kasbi\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\users\kasbi\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{c81c979f-ac40-4430-b607-a75f39d85d42}:c:\users\kasbi\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\users\kasbi\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:c:\users\kasbi\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\users\kasbi\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Coupon.Template.ApplicationCore
+i:{4c541a5d-54c0-4c56-8e0d-697b4cd046f4}:Coupon.Template.ApplicationCore
+++Implement
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\users\kasbi\source\repos\coupon\coupon.template.applicationcore\services\implement\
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\users\kasbi\source\repos\coupon\coupon.distribution.applicationcore\services\implement\
+++TemplateService.cs
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\users\kasbi\source\repos\coupon\coupon.template.applicationcore\services\implement\templateservice.cs
+++ITemplateService.cs
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\users\kasbi\source\repos\coupon\coupon.template.applicationcore\services\itemplateservice.cs
+++Tasks
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\users\kasbi\source\repos\coupon\coupon.template.applicationcore\tasks\
+++CheckExpiredCouponTemplateTask.cs
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\users\kasbi\source\repos\coupon\coupon.template.applicationcore\tasks\checkexpiredcoupontemplatetask.cs
+++Coupon.Template.Grpc
+i:{4c541a5d-54c0-4c56-8e0d-697b4cd046f4}:Coupon.Template.Grpc
+++Connected Services 
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:>393
+++Properties
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\users\kasbi\source\repos\coupon\coupon.template.grpc\properties\
+++launchSettings.json
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\users\kasbi\source\repos\coupon\coupon.template.grpc\properties\launchsettings.json
+++Protos
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\users\kasbi\source\repos\coupon\coupon.template.grpc\protos\
+++greet.proto
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\users\kasbi\source\repos\coupon\coupon.template.grpc\protos\greet.proto
+++GreeterService.cs
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\users\kasbi\source\repos\coupon\coupon.template.grpc\services\greeterservice.cs
+++appsettings.json
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\users\kasbi\source\repos\coupon\coupon.template.grpc\appsettings.json
+++Program.cs
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\users\kasbi\source\repos\coupon\coupon.template.grpc\program.cs
+++未发现任何服务依赖项
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:>394
+++appsettings.Development.json
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\users\kasbi\source\repos\coupon\coupon.template.grpc\appsettings.development.json
+++Grpc.AspNetCore (2.40.0)
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:>463
+++Microsoft.AspNetCore.Analyzers
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{74c18817-717b-4e90-9725-b58a242f20b1}:c:\users\kasbi\source\repos\coupon\coupon.template.grpc\microsoft.aspnetcore.app
+++Distribution
+i:{66cb9983-38b7-4449-b175-767ef07e1e61}:Distribution
+++Coupon.Distribution.ApplicationCore
+i:{89feb3a9-1ac7-4891-b7e3-1d92f51b9a5d}:Coupon.Distribution.ApplicationCore
+++Coupon.Distribution.Infrastructure
+i:{89feb3a9-1ac7-4891-b7e3-1d92f51b9a5d}:Coupon.Distribution.Infrastructure
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\users\kasbi\source\repos\coupon\coupon.distribution.infrastructure\coupon.distribution.infrastructure.csproj
+++CouponDbContext.cs
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:c:\users\kasbi\source\repos\coupon\coupon.distribution.infrastructure\coupondbcontext.cs
+++Coupon.Distribution.Model
+i:{89feb3a9-1ac7-4891-b7e3-1d92f51b9a5d}:Coupon.Distribution.Model
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:c:\users\kasbi\source\repos\coupon\coupon.distribution.model\coupon.distribution.model.csproj
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\users\kasbi\source\repos\coupon\coupon.distribution.model\coupon.distribution.model.csproj
+++Coupon.cs
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:c:\users\kasbi\source\repos\coupon\coupon.distribution.model\coupon.cs
+++Common
+i:{66cb9983-38b7-4449-b175-767ef07e1e61}:Common
+++Exception
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\exception\
+++Extension
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\extension\
+++Json
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\json\
+++DateTimeFormatterConverter.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\json\datetimeformatterconverter.cs
+++JsonExtension.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\json\jsonextension.cs
+++CouponException.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\exception\couponexception.cs
+++DateTimeExtension.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\extension\datetimeextension.cs
+++EnumableExtension.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\extension\enumableextension.cs
+++CouponCategory.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\model\couponcategory.cs
+++CouponTemplateSDK.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\model\coupontemplatesdk.cs
+++Discount.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\model\discount.cs
+++DistributeTarget.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\model\distributetarget.cs
+++Expiration.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\model\expiration.cs
+++PeriodType.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\model\periodtype.cs
+++ProductLine.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\model\productline.cs
+++TemplateRule.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\model\templaterule.cs
+++Usage.cs
+i:{11b154cb-ab03-4b08-9996-80c6ad70a396}:c:\users\kasbi\source\repos\coupon\coupon.common\model\usage.cs
+++Coupon.Redis
+i:{0e621dc8-a8a8-4494-8d22-4792fe3f9e90}:Coupon.Redis
+i:{981b4169-ac8a-4420-8675-496d17ff4624}:c:\users\kasbi\source\repos\coupon\coupon.redis\coupon.redis.csproj
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\users\kasbi\source\repos\coupon\coupon.redis\coupon.redis.csproj
+++RedisExtension.cs
+i:{eb1e635c-37c4-4f21-9222-a70dd86ad4e3}:c:\users\kasbi\source\repos\coupon\coupon.redis\redisextension.cs
+++RedisOption.cs
+i:{eb1e635c-37c4-4f21-9222-a70dd86ad4e3}:c:\users\kasbi\source\repos\coupon\coupon.redis\redisoption.cs
+++CSRedisCore (3.6.8)
+i:{eb1e635c-37c4-4f21-9222-a70dd86ad4e3}:>440
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:>780
+++Microsoft.Extensions.DependencyInjection.Abstractions (6.0.0)
+i:{eb1e635c-37c4-4f21-9222-a70dd86ad4e3}:>443
+++CouponStatus.cs
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:c:\users\kasbi\source\repos\coupon\coupon.distribution.model\contant\couponstatus.cs
+++新文件夹
+++CouponRepository.cs
+i:{73f6d6ba-d526-428b-af4d-e589d836c4a3}:c:\users\kasbi\source\repos\coupon\coupon.distribution.infrastructure\repository\couponrepository.cs
+++AcquireTemplateRequest.cs
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:c:\users\kasbi\source\repos\coupon\coupon.distribution.model\dto\acquiretemplaterequest.cs
+++CouponStatus
+++Contant
+i:{e48c52be-4212-4c4e-bf80-a3d7df4505ab}:c:\users\kasbi\source\repos\coupon\coupon.distribution.model\contant\
+++Constant.cs
+i:{eb1e635c-37c4-4f21-9222-a70dd86ad4e3}:c:\users\kasbi\source\repos\coupon\coupon.redis\constant.cs
+++IRedisService.cs
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\users\kasbi\source\repos\coupon\coupon.distribution.applicationcore\services\iredisservice.cs
+++RedisService.cs
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\users\kasbi\source\repos\coupon\coupon.distribution.applicationcore\services\implement\redisservice.cs
+++IUserService.cs
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\users\kasbi\source\repos\coupon\coupon.distribution.applicationcore\services\iuserservice.cs
+++UserService.cs
+i:{20389695-376e-4cfd-95a4-63afc91ec32c}:c:\users\kasbi\source\repos\coupon\coupon.distribution.applicationcore\services\implement\userservice.cs

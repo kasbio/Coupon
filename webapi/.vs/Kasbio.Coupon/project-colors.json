@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25bbdb79-7dd6-43c8-b246-d965236c1d42": {
+      "ProjectGuid": "25bbdb79-7dd6-43c8-b246-d965236c1d42",
+      "DisplayName": "Kasbio.Coupon.Settlement.Web",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+{
+  "GlobalConfiguration": {
+    "DownstreamScheme": "http",
+    "BaseUrl": "http://localhost:9000",
+    "LoadBalancerOptions": {
+      "Type": "LeastConnection",
+      "Expiry": 0
+    },
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": 8500,
+      "Type": "Consul"
+    }
+  }
+}

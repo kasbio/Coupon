@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Repository\**" />
+    <EmbeddedResource Remove="Repository\**" />
+    <None Remove="Repository\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\Coupon.Common\Coupon.Common.csproj" />
+    <ProjectReference Include="..\..\..\Common\Coupon.Redis\Coupon.Redis.csproj" />
+    <ProjectReference Include="..\Coupon.Template.Infrastructure\Coupon.Template.Infrastructure.csproj" />
+    <ProjectReference Include="..\Coupon.Template.Model\Coupon.Template.Model.csproj" />
+  </ItemGroup>
+
+</Project>

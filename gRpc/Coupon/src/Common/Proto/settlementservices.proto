@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option csharp_namespace="Coupon.Settlement.Grpc";
+
+import "settlementmodel.proto";
+package coupon_settlement;
+
+service SettlementServices{
+    //计算规则
+    rpc ComputeRule(coupon.grpc.settlement.dto.SettlementInfos) returns(coupon.grpc.settlement.dto.SettlementInfos);
+}

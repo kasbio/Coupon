@@ -1,0 +1,6 @@
+obj\Debug\net6.0/Userservice.cs \
+obj\Debug\net6.0/UserserviceGrpc.cs: C:/Users/kasbi/.nuget/packages/grpc.tools/2.40.0/build/native/include/google/protobuf/timestamp.proto\
+ ../../../Common/Proto/templatemodel.proto\
+ ../../../Common/Proto/settlementmodel.proto\
+ ../../../Common/Proto/distributionmodel.proto\
+ ../../../Common/Proto/userservice.proto

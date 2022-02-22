@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+option csharp_namespace="Coupon.Distribution.Grpc.Model";
+
+package coupon.grpc.distribution.dto;
+import "google/protobuf/timestamp.proto";
+import "templatemodel.proto";
+import "settlementmodel.proto";
+message FindCouponsByStatusRequest {
+    //用户ID
+    int64 userId = 1;
+    //优惠券状态
+    int32 status = 2;
+}
+
+
+message CouponDTO {
+    //优惠券ID
+    int32 id = 1;
+    //模板ID
+    int32 templateid = 2;
+    //用户ID
+    int32 userId = 3;
+    //优惠券编码
+    string couponCode = 4;
+    //领取时间
+    google.protobuf.Timestamp assignTime =5;
+    //优惠券状态
+    int32 CouponStatus = 6;
+    //模板DTO
+    coupon.grpc.template.dto.CouponTemplateDTO  Template = 7;
+} 
+
+message CouponCollection {
+    repeated CouponDTO  coupon = 1;
+}
+
+message UserIdRequest {
+    //用户ID
+    int32 userId = 1;
+}
+
+message AcquireRequest {
+    //用户ID
+    int64 userId = 1;
+    //模板ID
+    int32 TemplateId = 2;
+}
+

@@ -1,0 +1,7 @@
+C:\Users\kasbi\source\repos\Kasbio.Coupon\Kasbio.Coupon.Settlement.Infrastructure\bin\Debug\netcoreapp3.1\Kasbio.Coupon.Settlement.Infrastructure.deps.json
+C:\Users\kasbi\source\repos\Kasbio.Coupon\Kasbio.Coupon.Settlement.Infrastructure\bin\Debug\netcoreapp3.1\Kasbio.Coupon.Settlement.Infrastructure.dll
+C:\Users\kasbi\source\repos\Kasbio.Coupon\Kasbio.Coupon.Settlement.Infrastructure\bin\Debug\netcoreapp3.1\Kasbio.Coupon.Settlement.Infrastructure.pdb
+C:\Users\kasbi\source\repos\Kasbio.Coupon\Kasbio.Coupon.Settlement.Infrastructure\obj\Debug\netcoreapp3.1\Kasbio.Coupon.Settlement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kasbi\source\repos\Kasbio.Coupon\Kasbio.Coupon.Settlement.Infrastructure\obj\Debug\netcoreapp3.1\Kasbio.Coupon.Settlement.Infrastructure.AssemblyInfo.cs
+C:\Users\kasbi\source\repos\Kasbio.Coupon\Kasbio.Coupon.Settlement.Infrastructure\obj\Debug\netcoreapp3.1\Kasbio.Coupon.Settlement.Infrastructure.dll
+C:\Users\kasbi\source\repos\Kasbio.Coupon\Kasbio.Coupon.Settlement.Infrastructure\obj\Debug\netcoreapp3.1\Kasbio.Coupon.Settlement.Infrastructure.pdb

@@ -1,0 +1,3 @@
+obj\Debug\net6.0/Settlementmodel.cs: C:/Users/kasbi/.nuget/packages/grpc.tools/2.32.0/build/native/include/google/protobuf/timestamp.proto\
+ ../Proto/templatemodel.proto\
+ ../Proto/settlementmodel.proto

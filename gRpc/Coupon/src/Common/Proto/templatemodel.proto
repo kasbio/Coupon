@@ -1,0 +1,83 @@
+syntax = "proto3";
+package coupon.grpc.template.dto;
+option csharp_namespace = "Coupon.Template.Grpc.Model";
+import "google/protobuf/timestamp.proto";
+
+message TemplateRequest{
+	string name = 1;
+	string logo = 2;
+	string desc = 3;
+	int32 category = 4;
+	int32 productline = 5;
+	int32 count = 6;
+	int64 userid = 7;
+	int32 target = 8;
+	TemplateRuleDTO rule = 9;
+}
+
+
+message TemplateRuleDTO{
+	DiscountDTO discount = 1;
+	int32 limitation = 2;
+	string weight = 3;
+	ExpirationDTO expiration = 4;
+	UsageDTO usage = 5;
+}
+
+message ExpirationDTO{
+	int32 period = 1;
+	int32 gap = 2;
+	int64 deadline =3;
+}
+
+message DiscountDTO{
+	int32 quota = 1;
+	int32 base = 2;
+}
+
+message UsageDTO {
+	string province = 1;
+	string city = 2;
+	string goodstype = 3;
+}
+
+message CouponTemplateId{
+	int32 id = 1;
+}
+
+message CouponTemplateDTO {
+	int32 id = 1;
+	bool available = 2;
+	bool expired = 3;
+	string name = 4;
+	string logo = 5;
+	string desc = 6;
+	int32 category = 7;
+	int32 productline = 8;
+	int32 count = 9;
+	google.protobuf.Timestamp createtime = 10;
+	string key = 11;
+	int32 target = 12;
+	TemplateRuleDTO rule = 13;
+}
+
+message CouponTemplateList {
+	repeated CouponTemplateDTO data = 1;
+}
+
+message CouponTemplateWithStatus{
+	int32 code =1;
+	string message = 2;
+	repeated CouponTemplateDTO data = 3;
+}
+
+message CouponTemplateIds {
+	repeated int32 ids =1;
+}
+
+message CouponTemplateStatus {
+	bool available = 1;
+	bool expired = 2 ;
+}
+
+ 

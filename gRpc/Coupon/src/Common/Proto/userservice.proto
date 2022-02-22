@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option csharp_namespace ="Coupon.Distribution.Grpc";
+package coupon_user;
+
+import "distributionmodel.proto";
+import "templatemodel.proto";
+import "settlementmodel.proto";
+service UserServices{
+    //查找指定用户下的指定优惠券状态的优惠券
+    rpc FindCouponsByStatus(coupon.grpc.distribution.dto.FindCouponsByStatusRequest) 
+        returns (coupon.grpc.distribution.dto.CouponCollection);
+    //根据用户 id 查找当前可以领取的优惠券模板
+    rpc FindAvailableTemplate(coupon.grpc.distribution.dto.UserIdRequest) 
+        returns(coupon.grpc.template.dto.CouponTemplateList);
+    //领取优惠券
+    rpc Acquire(coupon.grpc.distribution.dto.AcquireRequest) 
+        returns (coupon.grpc.distribution.dto.CouponDTO);
+    //结算
+    rpc Settle(coupon.grpc.settlement.dto.SettlementInfos) 
+        returns (coupon.grpc.settlement.dto.SettlementInfos);
+}

@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option csharp_namespace = "Coupon.Template.Grpc";
+
+
+package coupon.grpc.template;
+import  "templatemodel.proto";
+
+//模板服务
+service CouponTemplateServices{
+	//创建模板，并返回模板信息
+	rpc Build(coupon.grpc.template.dto.TemplateRequest) 
+		returns (coupon.grpc.template.dto.CouponTemplateDTO);
+	//根据模板Id获取模板信息
+	rpc Infos(coupon.grpc.template.dto.CouponTemplateId) 
+		returns (coupon.grpc.template.dto.CouponTemplateDTO);
+	//获取指定状态的模板信息
+	rpc GetAllByAvailableAndExpired(coupon.grpc.template.dto.CouponTemplateStatus) 
+		returns(coupon.grpc.template.dto.CouponTemplateList);
+	//查找多个IDs查找模板信息
+	rpc FindId2TemplateSDK(coupon.grpc.template.dto.CouponTemplateIds) 
+		returns(coupon.grpc.template.dto.CouponTemplateWithStatus);
+}
+
+ 

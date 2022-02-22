@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ac2f5ad-ce80-4213-9b85-47e7317632ea": {
+      "ProjectGuid": "1ac2f5ad-ce80-4213-9b85-47e7317632ea",
+      "DisplayName": "Coupon.Template.Model",
+      "ColorIndex": 0
+    },
+    "c81c979f-ac40-4430-b607-a75f39d85d42": {
+      "ProjectGuid": "c81c979f-ac40-4430-b607-a75f39d85d42",
+      "DisplayName": "Coupon.Template.Infrastructure",
+      "ColorIndex": 1
+    },
+    "11b154cb-ab03-4b08-9996-80c6ad70a396": {
+      "ProjectGuid": "11b154cb-ab03-4b08-9996-80c6ad70a396",
+      "DisplayName": "Coupon.Common",
+      "ColorIndex": 2
+    },
+    "981b4169-ac8a-4420-8675-496d17ff4624": {
+      "ProjectGuid": "981b4169-ac8a-4420-8675-496d17ff4624",
+      "DisplayName": "Coupon.Template.ApplicationCore",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "eb1e635c-37c4-4f21-9222-a70dd86ad4e3": {
+      "ProjectGuid": "eb1e635c-37c4-4f21-9222-a70dd86ad4e3",
+      "DisplayName": "Coupon.Redis",
+      "ColorIndex": 4
+    },
+    "74c18817-717b-4e90-9725-b58a242f20b1": {
+      "ProjectGuid": "74c18817-717b-4e90-9725-b58a242f20b1",
+      "DisplayName": "Coupon.Template.Grpc",
+      "ColorIndex": 5
+    },
+    "e48c52be-4212-4c4e-bf80-a3d7df4505ab": {
+      "ProjectGuid": "e48c52be-4212-4c4e-bf80-a3d7df4505ab",
+      "DisplayName": "Coupon.Distribution.Model",
+      "ColorIndex": 6
+    },
+    "73f6d6ba-d526-428b-af4d-e589d836c4a3": {
+      "ProjectGuid": "73f6d6ba-d526-428b-af4d-e589d836c4a3",
+      "DisplayName": "Coupon.Distribution.Infrastructure",
+      "ColorIndex": 7
+    },
+    "20389695-376e-4cfd-95a4-63afc91ec32c": {
+      "ProjectGuid": "20389695-376e-4cfd-95a4-63afc91ec32c",
+      "DisplayName": "Coupon.Distribution.ApplicationCore",
+      "ColorIndex": 8
+    },
+    "4c541a5d-54c0-4c56-8e0d-697b4cd046f4": {
+      "ProjectGuid": "4c541a5d-54c0-4c56-8e0d-697b4cd046f4",
+      "DisplayName": "Template",
+      "ColorIndex": 9
+    },
+    "3f84f47a-da1e-47fe-910c-5569c1d28b0f": {
+      "ProjectGuid": "3f84f47a-da1e-47fe-910c-5569c1d28b0f",
+      "DisplayName": "Coupon.Template.Grpc",
+      "ColorIndex": 10
+    },
+    "d11417f2-1930-413c-a5f9-e9f0c58c91e1": {
+      "ProjectGuid": "d11417f2-1930-413c-a5f9-e9f0c58c91e1",
+      "DisplayName": "Coupon.Distribution.Web",
+      "ColorIndex": 11
+    },
+    "d8677369-71a8-4186-b1d6-9b053d9e0a3f": {
+      "ProjectGuid": "d8677369-71a8-4186-b1d6-9b053d9e0a3f",
+      "DisplayName": "Coupon.Settlement.ApplicationCore",
+      "ColorIndex": 12
+    },
+    "88f9206a-11d9-4ca5-a9e5-0b5106d16788": {
+      "ProjectGuid": "88f9206a-11d9-4ca5-a9e5-0b5106d16788",
+      "DisplayName": "Coupon.Settlement.Infrastructure",
+      "ColorIndex": 13
+    },
+    "96784f03-77f7-4cb5-9de0-1e78dbb24822": {
+      "ProjectGuid": "96784f03-77f7-4cb5-9de0-1e78dbb24822",
+      "DisplayName": "Coupon.Settlement.Model",
+      "ColorIndex": 14
+    },
+    "e83f97b0-2bf4-4e8f-9b18-3ec085e9d96b": {
+      "ProjectGuid": "e83f97b0-2bf4-4e8f-9b18-3ec085e9d96b",
+      "DisplayName": "Coupon.Distribution.Grpc",
+      "ColorIndex": 15
+    },
+    "07aaf873-7488-4dac-88b4-126594145160": {
+      "ProjectGuid": "07aaf873-7488-4dac-88b4-126594145160",
+      "DisplayName": "Coupon.Settlement.Grpc",
+      "ColorIndex": 0
+    },
+    "4b9a0d33-6840-41a9-a451-956b269143b3": {
+      "ProjectGuid": "4b9a0d33-6840-41a9-a451-956b269143b3",
+      "DisplayName": "Coupon.Distribution.Grpc",
+      "ColorIndex": 1
+    },
+    "804c0f72-4823-4354-80f0-8158aeaebf70": {
+      "ProjectGuid": "804c0f72-4823-4354-80f0-8158aeaebf70",
+      "DisplayName": "Coupon.Distribution.Grpc",
+      "ColorIndex": 2
+    },
+    "e3c468b0-d636-4ac0-b556-7e226c863b06": {
+      "ProjectGuid": "e3c468b0-d636-4ac0-b556-7e226c863b06",
+      "DisplayName": "Coupon.Settlement.Grpc",
+      "ColorIndex": 3
+    },
+    "19c9619a-af9a-4ae8-ae8f-70da8c61d2bc": {
+      "ProjectGuid": "19c9619a-af9a-4ae8-ae8f-70da8c61d2bc",
+      "DisplayName": "Coupon.Template.Test",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+	<PackageReference Include="AutoMapper" Version="11.0.0" />
+	<PackageReference Include="CSRedisCore" Version="3.6.8" />
+	<PackageReference Include="Google.Protobuf" Version="3.18.0" />
+	<PackageReference Include="Grpc.Net.ClientFactory" Version="2.40.0" />
+	<PackageReference Include="Grpc.Tools" Version="2.40.0">
+	  <PrivateAssets>all</PrivateAssets>
+	  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	</PackageReference>
+    <ProjectReference Include="..\Coupon.Distribution.Infrastructure\Coupon.Distribution.Infrastructure.csproj" />
+    <ProjectReference Include="..\Coupon.Distribution.Model\Coupon.Distribution.Model.csproj" />
+    <ProjectReference Include="..\..\..\Common\Coupon.Redis\Coupon.Redis.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="..\..\..\Common\Proto\couponTemplate.proto" GrpcServices="Client">
+      <Link>Protos\couponTemplate.proto</Link>
+    </Protobuf>
+      <Protobuf Include="..\..\..\Common\Proto\settlementservices.proto" GrpcServices="Client">
+      <Link>Protos\settlementservices.proto</Link>
+    </Protobuf>
+  </ItemGroup>
+
+</Project>

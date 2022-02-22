@@ -1,0 +1,4 @@
+obj\Debug\net6.0/CouponTemplate.cs \
+obj\Debug\net6.0/CouponTemplateGrpc.cs: C:/Users/kasbi/.nuget/packages/grpc.tools/2.44.0/build/native/include/google/protobuf/timestamp.proto\
+ ../../../Common/Proto/templatemodel.proto\
+ ../../../Common/Proto/couponTemplate.proto
